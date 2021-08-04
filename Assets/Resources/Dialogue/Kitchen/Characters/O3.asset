@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: O3
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I assume you keep the doors locked.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: When the kitchen is not in use, of course.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: And I assume that you or your servants would have observed any intruders.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: But of course.
+  opinionChanges:
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    opinionChange: 5
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: fd7f39eea2a159f48b944c4e04a80b3d, type: 2}
+  evidence: {fileID: 0}

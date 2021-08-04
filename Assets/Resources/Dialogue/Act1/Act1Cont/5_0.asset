@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: 5_0
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Well, I do hope the purpose of your visit is to catch up with my husband
+      and not to spark his obsession into that damned rod again.
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "For the last time, it\u2019s a staff Patricia. Please excuse my wife,
+      she has become quite cynical about my work in recent years.\r\n"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "It\u2019s high time you retire as you promised Henry. What happened
+      thousands of years ago is not as important as what is happening to your family
+      right now."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "That\u2019s quite enough Patricia, we have a guest."
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Hmmph.
+  - character: {fileID: 0}
+    sentence: The main doors to the hall once again swing open, with Eric and Anna
+      storming into the room.
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: You were never as good as me at tennis big brother.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Oh do be quiet sister. You\u2019ve been back from your escapades in
+      South America for less than a week and I\u2019m beginning to wonder why I missed
+      you."
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "That\u2019s easy, when I\u2019m not here, nobody is around to beat
+      you at everything."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Oh we shall see about that when we spar one another later, I\u2019ve
+      been practicing my parrying you know."
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: Please brother, a successful parry is nothing if you cannot follow
+      it up with a good riposte afterwards, and besides, we both know who has the
+      better lunges anyway.
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "That\u2019s enough, both of you. Sit down, we have a guest."
+  - character: {fileID: 0}
+    sentence: Eric immediately sits down, whilst Anna kisses Henry on the cheek and
+      then sits down.
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: Allow me to introduce a former colleague of mine, and perhaps the second
+      most brilliant archeologist I have ever known, bar myself of course, Jim Penfold.
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "So you\u2019re the famous Jim Penfold that my father speaks so highly
+      of. I\u2019m Anna."
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: Nice to meet you my lady.
+    answerDialogue: {fileID: 11400000, guid: 41f8625cc3e762449bd37ad1989c16be, type: 2}
+  - answer: I only just found out you exist!
+    answerDialogue: {fileID: 11400000, guid: 3d705c2760905d644a527da0e2b43821, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: EricAct3G
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Damnit! There must be something here! Something that proves that slimeball
+      was involved!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: My lord, I understand you want to do everything in your power to save
+      your sister, but tearing this place apart is only making it harder to find
+      anything helpful.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "I\u2026 You\u2019re right detective. Though I assume you already thoroughly
+      searched this room immediately after the murder, right?"
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: Yes, I did.
+    answerDialogue: {fileID: 11400000, guid: 6948bd3a48fb6dd42a64a0cfbf989927, type: 2}
+  - answer: "No, I haven\u2019t, that\u2019s why I came back."
+    answerDialogue: {fileID: 11400000, guid: 40b96deaf3b5c93428eef68681b20127, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

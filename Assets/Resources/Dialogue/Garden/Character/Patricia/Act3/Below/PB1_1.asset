@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: PB1_1
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "What was Anna\u2019s relationship like with her father?"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: How is that important at this very moment Mr Penfold? We have to save
+      her, not discuss her!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I\u2019m sorry my lady, you are right of course."
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 8f446b277c957664e80db68af2e05855, type: 2}
+  evidence: {fileID: 0}

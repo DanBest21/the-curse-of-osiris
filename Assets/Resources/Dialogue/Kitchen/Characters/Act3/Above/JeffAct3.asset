@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: JeffAct3
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Ah detective! I must tell you that I have sent the rest of the servants
+      to their living quarters whilst we await the arrival of the police. Please
+      tell me you are doing all you can to secure the release of Lady Crane.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I am trying my utmost Jeffery. We\u2019ve already lost one Crane today,
+      I won\u2019t allow us to lose another."
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: I admire your determination. I only hope you are right. Can I help
+      your investigation in some way?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Yes, actually, you can. There are a few mysteries in this investigation
+      that I am hoping to shine a light on, but I\u2019m afraid since time is short
+      that it would be best to ask the right question."
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Please do go on.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: As the only person here who is not a Crane, I was hoping you could
+      give me insight into a particular family member. Specifically about their relationship
+      with Henry.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Which one?
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: Anna.
+    answerDialogue: {fileID: 11400000, guid: 7baf9451f99d2c54ab5ef4d8b16e8b02, type: 2}
+  - answer: Patricia.
+    answerDialogue: {fileID: 11400000, guid: 818f21d128787b54a93b1744d1baee66, type: 2}
+  - answer: Eric.
+    answerDialogue: {fileID: 11400000, guid: 8f36fb3f8f450614ea7c4524c9f157e9, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

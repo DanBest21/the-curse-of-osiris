@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: 6_0
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Oh please, the last thing I want to hear about is some old rocks when
+      I\u2019m trying to enjoy my caviar."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: Do be quiet Eric. You remember my son right Jim.
+  opinionChange:
+    character: {fileID: 0}
+    opinionChange: 0
+  isChoice: 1
+  choices:
+  - answer: Long time no see Eric.
+    answerDialogue: {fileID: 11400000, guid: 4ee19e1f813e3f74fb1831e8aa228b5e, type: 2}
+  - answer: Caviar?
+    answerDialogue: {fileID: 11400000, guid: 15536a545f1291d4bb09bcd667ac3abd, type: 2}
+  - answer: "It\u2019s a pleasure to see you again Eric."
+    answerDialogue: {fileID: 11400000, guid: 40a45078c9cd4714f86328b0830f400f, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

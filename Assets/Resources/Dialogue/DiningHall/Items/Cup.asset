@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Cup
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: A cup filled with red wine. There is no obvious aroma emanating from
+      either the cup itself or its contents.
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

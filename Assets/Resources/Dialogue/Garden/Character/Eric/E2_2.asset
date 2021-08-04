@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: E2_2
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Your father trusted me. As a matter of fact, he was like a father to
+      me too, my mentor.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I am trying to remain strong so that I am able to solve his murder
+      and bring the righteous fury of justice down upon whoever brought about his
+      demise. But I too am grieving for the loss of a dear friend.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Father did talk highly of you, I will admit. But I am still not convinced.
+  opinionChanges:
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    opinionChange: 25
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 8eaf1be254bac694c85dd391b60319de, type: 2}
+  evidence: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6c4ac28ccff274fbf6b1ed995e4bd1, type: 3}
+  m_Name: Arbiter
+  m_EditorClassIdentifier: 
+  name: The Arbiter and the Usurper
+  room: 5
+  description: "I know this book very well, it was written by Henry\u2019s mentor,
+    Lord Bartholomew Princeton, who also searched for the staff. It depicts the story
+    of Osiris, the Egyptian god of the underworld, and his brother Set, the god of
+    the desert, storms, disorder and violence. A section appears to have been marked:\r\n\n\"The
+    known curse of eternal damnation is not the only rumoured side effect of possession
+    of the staff. It is said that the next born daughter of he who possesses the
+    staff would become corrupted by the Curse of Osiris. Wtih his dying breath, Osiris
+    cursed his brother, such that his next born child would be evil incarnate, and
+    destined to kill him. What Osiris did not plan for is that Set forcefuly took
+    Osiris's wife as his own. Luckily for Isis and Set, this did not come to pass,
+    as Isis soon gave birth to a son, who was fathered by Osiris before his death:
+    Horus. However, in a way the prophecy was still fulfilled, as it was Horus who
+    defeated his uncle for good when he came of age.\u201D\n\nWas it Henry who was
+    interested in this passage? Did he believe this curse was plaguing him?\r"
+  image: {fileID: 0}
+  type: 2

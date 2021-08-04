@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: E2_1
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I could ask you the same question. At the moment, you are at the top
+      of my suspect list.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Me? What reason would I have to kill my own father? Ridiculous!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: You are arrogant, brash, and seem to care for no one but yourself.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Oh you\u2019ve known me all of five minutes and you already have me
+      figured out do you, Sherlock? Screw you Mr Penfold."
+  opinionChanges:
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    opinionChange: -20
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 8eaf1be254bac694c85dd391b60319de, type: 2}
+  evidence: {fileID: 0}

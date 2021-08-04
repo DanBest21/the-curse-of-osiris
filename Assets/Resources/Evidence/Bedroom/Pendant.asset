@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6c4ac28ccff274fbf6b1ed995e4bd1, type: 3}
+  m_Name: Pendant
+  m_EditorClassIdentifier: 
+  name: Pendant
+  room: 4
+  description: A pendant given to Patricia by Henry from his travels in Casablanca.
+    Patricia requested that I bring this item to her to provide comfort in this troubling
+    time.
+  image: {fileID: 0}

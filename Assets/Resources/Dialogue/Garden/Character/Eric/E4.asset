@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: E4
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Regardless, instead of needlessly speculating on the identity of your
+      father\u2019s murderer, I intend to thoroughly investigate and find out for
+      sure."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: I will believe it when I see it. If you were a good detective, you
+      would be a cop.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I used to be, but the police system is too ineffective for my liking.
+      I found I can do more good on my own. Anyway, for now, stay here and make sure
+      nothing happens to your sister and mother.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "What do you think I\u2019ve been doing? Just get back to your investigation
+      and prove it was Jeffery so we can lock that vile creature away for good."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I\u2019ll get back to my investigation, but I can\u2019t promise I\u2019ll
+      find the answers you\u2019re looking for."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Yeah, yeah. Later.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

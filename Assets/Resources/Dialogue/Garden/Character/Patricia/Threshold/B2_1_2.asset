@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: B2_1_2
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I do. It is said the staff was the doom of many civilizations throughout
+      history. The end of the Hellenic era, the fall of Rome, the sacking of Constantinople,
+      and the collapse of the Ottoman Empire.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Oh you sound just like him! What rubbish.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: a0e164ef02d704a47962f2772a5b2910, type: 2}
+  evidence: {fileID: 0}

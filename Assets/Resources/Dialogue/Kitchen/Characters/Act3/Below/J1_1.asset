@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: J1_1
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Anna.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Anna? Need I remind you that she is the one missing right now. Why
+      is her relationship with her father important at this very moment?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I am just curious.\r"
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "Well it\u2019s not helpful. Let\u2019s get back to finding her or
+      finding that staff."
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: f9c8ae2d88a9e414ca189ee19596a669, type: 2}
+  evidence: {fileID: 0}

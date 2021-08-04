@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: JefferyCont
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "I\u2026 Oh Henry, how could this happen? I can\u2019t believe you\u2019re
+      gone."
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "You shouldn\u2019t stay in here and continue to see him in this state
+      mum. Let\u2019s go outside and get some fresh air until the police arrive."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: How could this happen? I need some fresh air too.
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: If you want to find us Mr Penfold, we will be in the Garden, just outside
+      those main doors.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 11400000, guid: 49e8b436bdf79e04d89e279d7986bde6, type: 2}

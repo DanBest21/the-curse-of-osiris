@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Correspondence
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: "A French frock coat, very fancy. What\u2019s this? Something is in
+      the pocket! A note that reads:\n\n\u201CHey boss, we\u2019re all pleased to
+      hear from you! "
+  - character: {fileID: 0}
+    sentence: "We\u2019ve been keeping busy with odd jobs whilst you\u2019ve been
+      away, managed to snag a Ming Dynasty vase from some foolish Triad goons in
+      San Francisco last week. It\u2019s sure to fetch a pretty penny on the black
+      market, and of course, we\u2019ll share all the loot as usual."
+  - character: {fileID: 0}
+    sentence: "I\u2019m glad to hear your plan is progressing well, and that you\u2019re
+      close to the staff. Posing as a butler was ingenious, an easy way to get close
+      to that foolish noble. Soon all will know how the great Pedro Lopes swindled
+      the most prolific archeologist of our generation. Of course, we\u2019ll also
+      be rich beyond imaging when we fence that staff."
+  - character: {fileID: 0}
+    sentence: "We\u2019ll see you soon boss.\n\nEnrico\""
+  - character: {fileID: 0}
+    sentence: My word, it looks like Jeffery is not who he seems. Maybe the butler
+      did it, that would be a first!
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

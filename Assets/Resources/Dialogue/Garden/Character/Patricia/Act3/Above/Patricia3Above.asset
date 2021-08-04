@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Patricia3Above
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Apologies for disturbing you again duchess. I retrieved the pendant
+      that you requested.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: My pendant! Thank you Mr Penfold.
+  - character: {fileID: 0}
+    sentence: Anna opens the pendant, revealing a picture of Eric and Anna as a child.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Anna. Oh Anna, my darling baby girl.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Don\u2019t worry duchess, we will get her back."
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "I beg of you Jim, I cannot lose them both on one day. I just can\u2019t."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I promise you, it will be ok.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Why are you here, detective? You should be retrieving the Staff before
+      time runs out.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I came to speak to you. I have a question that pertains to the investigation
+      that I am hoping you can help me with.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Well go on then. We have to save Anna!
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: "What was Anna\u2019s relationship like with her father?"
+    answerDialogue: {fileID: 11400000, guid: 7a619040bbddf2341b567a5b0f776b45, type: 2}
+  - answer: "What was Eric\u2019s relationship like with his father?"
+    answerDialogue: {fileID: 11400000, guid: d195e09d6e7eab8419a2daffc51ca791, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

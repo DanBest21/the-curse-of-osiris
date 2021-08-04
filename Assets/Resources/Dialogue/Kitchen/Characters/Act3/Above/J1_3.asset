@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: J1_3
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Eric.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Yes of course. Well, you saw his violent tendencies towards me earlier
+      firsthand. His relationship with his father was strenuous at best. I caught
+      them arguing about the business in the hallway but a few days ago.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Any idea what the argument was about?
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: No, but whatever it was, Eric was furious.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I see, thank you for the tip.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 64558b7ac6c3ecc4c93aec5fed6a540d, type: 2}
+  evidence: {fileID: 11400000, guid: 49d0dfb1d68249b479a838ac11f804f1, type: 2}

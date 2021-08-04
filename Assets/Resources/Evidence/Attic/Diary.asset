@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6c4ac28ccff274fbf6b1ed995e4bd1, type: 3}
+  m_Name: Diary
+  m_EditorClassIdentifier: 
+  name: "Child\u2019s Diary"
+  room: 3
+  description: "An old diary written by a child. An entry reads: \r\n\n\u201C23rd
+    June 2007: I had a run in with Peter at school again, but this time I was ready.
+    When he stole my lunchbox and reached for my sandwich as usual, I could see how
+    happy he was. That happiness quickly turned to horror when he realised today
+    live tarantula was on the menu. \r\n\r\nOh how he screamed, it was delicious.\u201D
+    \r\n\nCreepy. I wonder who this diary belongs to..."
+  image: {fileID: 0}
+  type: 2

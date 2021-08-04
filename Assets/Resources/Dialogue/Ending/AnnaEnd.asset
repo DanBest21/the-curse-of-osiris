@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: AnnaEnd
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Now that the killer has been identified, it is time to go and end this
+      charade, once and for all!
+  - character: {fileID: 0}
+    sentence: As Jim enters the secret room, he sees Anna tied up.
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "Jim?! Oh thank god you\u2019re here! You have to hurry, he\u2019ll
+      be back soon! Father\u2019s killer, it\u2019s Jeffery, he\u2019s not who he
+      says he is, and he\u2019s after the artifact!"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Is that so Anna?
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: What? Yes. Now hurry up and untie me, he could be back any moment now!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Oh, I\u2019m in no rush to go anywhere. And neither are you. Otherwise
+      you would have left already."
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: Excuse me? Are you going to help me or not?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Oh, I\u2019m going to help you. But you don\u2019t need my help to
+      free yourself. "
+  - character: {fileID: 0}
+    sentence: Before Anna can reply, Jeffery, Eric and Patricia all enter the room.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Anna! Oh thank god, Anna!
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "Mother! Get away from him, it\u2019s Jeffery, he\u2019s the killer!
+      He\u2019s after the artifact, he\u2019s not who he says he is!"
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "I knew it! Oh now you\u2019re in for it! Just you wait, I swear I\u2019ll\u2026"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: No. Hold on.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Hold on?! He killed my father! He kidnapped my sister!\r"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "No, he didn\u2019t. But the killer is indeed in this room, isn\u2019t
+      that right, Anna?"
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "What? How could you accuse me?! Can\u2019t you see I\u2019m tied up?"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I see you are tied up, yes, but since we\u2019re both experienced
+      outdoorsman, we both know you could quite easily untie that knot of yours.
+      It was camping magazines that you used to create that fake kidnap note too
+      wasn\u2019t it Anna?"
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: Camping magazines? What are you talking about?!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: It was you who killed Henry, Anna.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Anna? That\u2019s preposterous!"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "No, I don\u2019t believe it."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "You poisoned him when you kissed him on the cheek. I must admit, I
+      didn\u2019t give that kiss a second thought, until I found out about your recent
+      foray into Mayan poison making."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: And the fake kidnapping by means of these secret tunnels, setting up
+      Jeffery, or should I say Pedro, to take the fall for you.
+  - character: {fileID: 0}
+    sentence: '''Jeffery'' drops his southern English accent, and begins instead
+      to talk with a Portuguese one.'
+  - character: {fileID: 11400000, guid: 7dc48e8458df8024388fcc89cc52c90d, type: 2}
+    sentence: You know? Very well played detective.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: What do you mean by that?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Your butler is actually an infamous treasure hunter seeking the Staff
+      of Osiris. And Henry knew too, didn\u2019t he?"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Jeffery? Explain yourself this instant.
+  - character: {fileID: 11400000, guid: 7dc48e8458df8024388fcc89cc52c90d, type: 2}
+    sentence: Most impressive. My name, my real name, is Pedro Lopes, treasure hunting
+      extraordinaire.
+  - character: {fileID: 11400000, guid: 7dc48e8458df8024388fcc89cc52c90d, type: 2}
+    sentence: Henry found out a few days ago, which was a tad inconvenient. There
+      was something of a stalemate going on where neither of us wanted to confront
+      the other about it. I was so close to getting that staff too.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Which is why Henry decided to give it to me before you could take
+      it. But he didn\u2019t count on the unthinkable. He didn\u2019t count on his
+      own daughter murdering him. The only question remaining was why? Why did you
+      kill him?"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: And then it hit me. The Curse of Osiris. It is said that with his dying
+      breath, Osiris placed upon his murderer, his brother Set, a curse that would
+      cause his next born daughter to suffer unimaginable torment until she killed
+      her own father.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Luckily for Set, this never came to pass, since Osiris\u2019 own son
+      avenged him before these events could come to pass. But legend states that
+      the curse carried down to the legendary Staff of Osiris, and that the wielder
+      of it would suffer the same fate. Of course, this is all mythos to most of
+      us, but not to Henry. Isn\u2019t that right, Anna?"
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: My entire life, he treated me like a burden! Like some problem to be
+      dealt with rather than his actual daughter. He was convinced I was the spawn
+      of the devil, cursed to be evil incarnate!
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: Do you have any idea what that is like? So yes, I killed him. I killed
+      him because he thought I was irredeemable, because by getting rid of that staff,
+      it symbolised he had finally given up on me. And I had given up on him.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "Anna. Oh Anna. I\u2019m so sorry."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: How could you Anna? How could you do that to us?
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "You have no idea what it was like to suffer just because of some old
+      tomes and tomb enscribings. I\u2019m sorry I caused you two pain, but I don\u2019t
+      regret what I did."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "You\u2019re right. I can\u2019t begin to understand what that must
+      have been like. The damage it must have done. But it does not justify your
+      actions either. You will have to answer for your crimes. As will you, Mr Lopes."
+  - character: {fileID: 0}
+    sentence: The police arrive and take both Anna and Pedro into custody. Some time
+      passes, and Eric, Patricia and Jim are all back in the Dining Hall.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I am truly sorry for your loss my lord and lady. I am afraid sometimes
+      the truth hurts more than not knowing it at all.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "I just can\u2019t believe my own sister would be behind something
+      like this. Someone I have loved my entire life, capable of something so disturbing."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: It seems as if the emotional abuse that your father gave to her eventually
+      weighed its toll, and this was the end result.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: I should have done more to stop it.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "You can\u2019t blame yourself mother."
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "You\u2019re right. Thank you Jim, for everything."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Yes, thank you for solving my father\u2019s murder. You are welcome
+      here anytime my friend."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Thank you both. Farewell for now.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

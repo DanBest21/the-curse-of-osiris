@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6c4ac28ccff274fbf6b1ed995e4bd1, type: 3}
+  m_Name: Correspondence
+  m_EditorClassIdentifier: 
+  name: Secret Correspondence
+  room: 3
+  description: "A French frock coat, very fancy. What\u2019s this? Something is in
+    the pocket! A note that reads: \n\r\n\u201CHey boss, we\u2019re all pleased to
+    hear from you! \r\n\r\nWe\u2019ve been keeping busy with odd jobs whilst you\u2019ve
+    been away, managed to snag a Ming Dynasty vase from some foolish Triad goons
+    in San Francisco last week. It\u2019s sure to fetch a pretty penny on the black
+    market, and of course, we\u2019ll share all the loot as usual.\r\n\r\nI\u2019m
+    glad to hear your plan is progressing well, and that you\u2019re close to the
+    staff. Posing as a butler was ingenious, an easy way to get close to that foolish
+    noble. Soon all will know how the great Pedro Lopes swindled the most prolific
+    archeologist of our generation. Of course, we\u2019ll also be rich beyond imaging
+    when we fence that staff.\r\n\r\nWe\u2019ll see you soon boss.\r\n\r\nEnrico\u201D\r\n\nMy
+    word, it looks like Jeffery is not who he seems. Maybe the butler did it, that
+    would be a first!\r\n"
+  image: {fileID: 0}
+  type: 0

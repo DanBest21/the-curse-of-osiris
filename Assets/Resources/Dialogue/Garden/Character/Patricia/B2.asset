@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Forgive me for asking, but do you happen to know anything about the
+      current whereabouts of the Staff of Osiris?
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: How could you ask about that at a time like this?
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: His death could have been related to the curse.
+    answerDialogue: {fileID: 11400000, guid: 0b808e857edb2444dbced43c136a6342, type: 2}
+  - answer: Well it is the reason I came here after all.
+    answerDialogue: {fileID: 11400000, guid: ce8b962625caf7844b9c8e9126d48a90, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

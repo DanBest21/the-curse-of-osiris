@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: A2_1
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: What can you tell me about Jeffery?
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: Jeffery? What about him?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Without reviewing evidence, he seems to be the most suspicious leading
+      up to the events of your father\u2019s death."
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "He\u2019s been our family\u2019s butler ever since our previous one,
+      Michael, retired a year and a half ago."
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 8d4c559005e4b7548a2a8616334f1cda, type: 2}
+  evidence: {fileID: 0}

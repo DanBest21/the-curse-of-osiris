@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Act1_1
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: You drag Eric away from Jeffery.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Enough! We have to be smart. Although he may well be the deviant we
+      are searching for, right now all that matters is rescuing your sister!
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: If he has her held somewhere, I can beat it out of him!
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "I\u2019m not the perpetrator you incompetent oaf!"
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: What did you just call me?
+  opinionChanges:
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    opinionChange: -10
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    opinionChange: 20
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    opinionChange: 10
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 739236dcbf384da42964132192970d4e, type: 2}
+  evidence: {fileID: 0}

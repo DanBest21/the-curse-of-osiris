@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: 5_2
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I must admit my lady, I have only just at this moment became aware
+      of your existence, but it is an honour to meet you regardless.
+  - character: {fileID: 11400000, guid: 228e4b94c6d707c4c86ad7fc15c524ac, type: 2}
+    sentence: "Ha ha, well as far as I\u2019m aware, you have been out of my father\u2019s
+      life for over 20 years, and I just turned 20. Father spoke highly of you, maybe
+      as a fellow archeologist, we can discuss our work over the course of dinner."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "You\u2019re following in your father\u2019s footsteps? I bet you are
+      happy you have a protege after all Henry."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: Ha, well I needed someone to carry on my legacy when you just spontaneously
+      quit all those years ago.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: d7635ba4a25ea7c4094aaa5a5ca81735, type: 2}
+  evidence: {fileID: 0}

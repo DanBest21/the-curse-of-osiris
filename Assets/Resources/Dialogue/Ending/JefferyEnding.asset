@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: JefferyEnding
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: Now that the killer has been identified, all that remains now is to
+      gather everyone in the Dining Hall.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Thank you all for coming. I have concluded my investigation, and have
+      gathered you all together because I have identified the killer.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Yes, yes. Time is short. My sister could still be in danger.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Please tell us what you have discovered Jim.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "Yes, Miss Crane\u2019s life still hangs in the balance!"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "And you would know, wouldn\u2019t you Jeffery?"
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Me?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: I knew it! Oh just you wait, you cretin.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Jeffery? How could you?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Yes, or should I call you, Pedro?
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "Pedro? I don\u2019t know what you\u2019re talking about."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Your name, your real name, is Pedro Lopes. The infamous treasure hunter.
+      You\u2019ve been undercover this entire time, attempting to get a hold of the
+      staff for yourself. Presumably to sell to the highest bidder."
+  - character: {fileID: 0}
+    sentence: '''Jeffery'' drops his southern English accent, and begins instead
+      to talk with a Portuguese one.'
+  - character: {fileID: 11400000, guid: 7dc48e8458df8024388fcc89cc52c90d, type: 2}
+    sentence: Well discovered detective, I am impressed.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "And I assume Henry found out about your little secret, didn\u2019t
+      he?"
+  - character: {fileID: 11400000, guid: 7dc48e8458df8024388fcc89cc52c90d, type: 2}
+    sentence: He did indeed detective, but it is at that point you are wrong. I played
+      no part in his demise, of that I am innocent.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Maloney! I\u2019ll kill you for what you did!"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: No. We need him alive to find out where he is holding your sister.
+      Let us let the police take it from here.
+  - character: {fileID: 0}
+    sentence: 'The police arrive and take Pedro into custody. Some time passes, and
+      Eric, Patricia and Jim are all back in the Dining Hall. '
+  - character: {fileID: 0}
+    sentence: "A new note has been discovered, covered in what looks like blood.
+      It reads \u201CI TOLD YOU WHAT WOULD HAPPEN. HER BLOOD IS ON YOUR HANDS.\u201D"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Oh god Anna no. How could you let this happen James?! My poor, sweet
+      daughter!
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Anna, no! Get the hell out of here Mr Penfold! Leave, and never return!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I must have got it wrong. I failed. I\u2019m so sorry."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Now!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I am terribly sorry, I shall take my leave...
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

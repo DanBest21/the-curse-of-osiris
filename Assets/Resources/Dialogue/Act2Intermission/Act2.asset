@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Act2
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "That\u2019s enough Eric! It\u2019s that blasted staff that is the
+      issue. If that\u2019s all they want, let\u2019s just give it to him."
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "Mr Penfold, I beg of you, go to my husband\u2019s study upstairs and
+      find any clue as to where he may have hidden that cursed artifact. We must
+      save my daughter from this fate!"
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Forget the staff mother, even if it isn\u2019t this slimeball, we
+      need to find evidence of who this murderer is. Let Jim continue his investigation,
+      we can save my sister, and catch father\u2019s killer all at the same time."
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Regardless of what you do detective, I suggest you do it fast!
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "For once I agree with you, you snivelling toad. I\u2019m going back
+      to the dining room to see if I can find something that pins you to father\u2019s
+      death. You aren\u2019t getting away with this."
+  - character: {fileID: 0}
+    sentence: Eric storms off towards the manor.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "Eric, wait! Please Jim, I can\u2019t bear to lose him too, get my
+      daughter back no matter the cost."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I promise you all, I\u2019ll get Anna back, I swear it."
+  - character: {fileID: 0}
+    sentence: Study unlocked!
+  - character: {fileID: 0}
+    sentence: Where should I go first?
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 11400000, guid: 28591f33be85eb44f970a60ae2a407d3, type: 2}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Prologue
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "My friend, I hope this letter finds you well. It has been so long!
+      The last time we saw each other, my oldest Eric was merely a boy. Now he\u2019s
+      poised to take over my business dealings as I retire, but I digress."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "I\u2019m reaching out to you after all this time to let you know that
+      I\u2019ve finally done it, I found what we spent all those years chasing after
+      \u2014 the Staff of Osiris! It truly is a splendor to behold, the very power
+      of the god of death himself courses through its frame!"
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "We were looking in the wrong place all this time old friend, long
+      had it left the Valley of the Kings. I traced its steps after it left Egypt
+      \u2014 the Achaemenids, the Greeks, the Romans, the Byzantines, and finally
+      the Ottomans."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "It is quite remarkable that all this time, it was hidden in plain
+      sight \u2014 on display in the Hagia Sophia in Istanbul. It took quite some
+      convincing (and a lot of money!) to get the Turkish authorities to part with
+      it."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: "You simply must come to my manor and see it for yourself. After the
+      many years we spent on its trail in Egypt, I\u2019m sure you could not resist
+      coming to see it."
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: Oh, and pay no mind to those ridiculous stories we heard from locals
+      back in the day, my possession of it has not caused me to just magically fall
+      over and die!
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: I look forward to seeing you after all these years soon.
+  - character: {fileID: 11400000, guid: 42df7a1766f033643ba6484f19d6d80a, type: 2}
+    sentence: Your friend, Henry.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

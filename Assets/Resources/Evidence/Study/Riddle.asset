@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6c4ac28ccff274fbf6b1ed995e4bd1, type: 3}
+  m_Name: Riddle
+  m_EditorClassIdentifier: 
+  name: Riddle
+  room: 6
+  description: "A note addressed to me?!\r\n\n\u201CJim,\r\n\r\nIf you\u2019re reading
+    this, then my worst come fears have been realised. I entrust the staff to you.
+    Go to the wine cellar and open the secret vault. You need a code to open it,
+    I\u2019ve written the rest in hieroglyphics to make sure it is you who is attempting
+    to solve my riddle.\r\"\n\nTranslated, the hieroglyphics read:\n\r\n\"A Sheet
+    of Sound\r\nAn Enemy of Birds\r\nA Teller of Time\r\nThe Great Pyramid and its
+    Siblings\u201D\r\n\nFour clues, perhaps each of them corresponds to a number?\r"
+  image: {fileID: 0}
+  type: 0

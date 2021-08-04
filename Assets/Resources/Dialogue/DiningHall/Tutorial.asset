@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: I can click on items to interact with them, and possibly find some
+      clues to solve this mystery.
+  - character: {fileID: 0}
+    sentence: I can also check my journal by clicking the book icon on the top-right
+      corner of the screen to review evidence that I have found.
+  - character: {fileID: 0}
+    sentence: I should be wary of the time though, we don't want the killer to escape!
+  - character: {fileID: 0}
+    sentence: I should talk to Jeffery when I'm ready to move on.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

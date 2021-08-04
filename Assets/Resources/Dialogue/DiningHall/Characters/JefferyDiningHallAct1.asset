@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: JefferyDiningHallAct1
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "That is all I\u2019m going to ascertain from here for now. Now tell
+      me, where are the kitchens located? I would like to investigate the food and
+      drink for foul play."
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "I\u2019m not sure if you are allowed to snoop around sir, detective
+      or not."
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: My husband is dead, Jeffery! Even if there is a chance he can catch
+      who did this, he has my full permission to search the manor.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "You can\u2019t let him snoop around the house! He could have been
+      the one who killed him for all we know."
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "Now is not the time for your nonsense Eric! All I care about now is
+      finding your father\u2019s killer before they get away."
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Very well my lady. The kitchen can be accessed by this double door.
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: I most appreciate it Duchess.
+    answerDialogue: {fileID: 11400000, guid: 00c11d71f0ef81844b9d8674881165e8, type: 2}
+  - answer: Thank you my lady.
+    answerDialogue: {fileID: 11400000, guid: 5df0271955d002b4582aee490a63c2a9, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

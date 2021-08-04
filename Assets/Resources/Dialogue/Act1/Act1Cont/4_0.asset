@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: 4_0
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: What are you up to these days, still spending a lot of time in Egypt?
+  opinionChange:
+    character: {fileID: 0}
+    opinionChange: 0
+  isChoice: 1
+  choices:
+  - answer: "No, I\u2019ve long since moved on from archeology."
+    answerDialogue: {fileID: 11400000, guid: 47828db8a711cb640bc01399428c1afd, type: 2}
+  - answer: Unfortunately not, family got in the way
+    answerDialogue: {fileID: 11400000, guid: 5b89c2f4c40f766428ece4f335eb094f, type: 2}
+  - answer: I had to give it up, family first.
+    answerDialogue: {fileID: 11400000, guid: b39ac61805f268a41ab99189a5afac6d, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

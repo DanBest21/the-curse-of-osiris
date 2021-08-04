@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: E2_2
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Your sister was last seen in the outhouse, and nobody saw her or the
+      kidnapper leave. Do you have any idea how they could have left without anyone
+      noticing?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "How they left the outhouse? Why is that the question you\u2026 Wait,
+      of course! The secret tunnels!"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Secret tunnels?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Yes, the secret tunnels. Back when this house was built in the Victorian
+      era, tunnels were built across the various parts of the house to allow servants
+      to travel without disturbing their masters.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: How demeaning.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Yes, which is why they eventually became lost to the annals of time.
+      But our old butler, Michael, showed them to me and my sister when we were kids.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Oh, we used to drive mother and father mad by using them to traverse
+      the house and confusing the absolute hell of out them!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I see, so they didn\u2019t know about the tunnels?"
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: No. As far as I know, only me, my sister, and our dear old butler Michael
+      knew about them. But someone must have found out about them and used them to
+      escape.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: The outhouse is built on top of the old servant quarters after all,
+      meaning there is a tunnel there somewhere.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Thanks for the tip Eric. This information could crack the case wide-open.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Anything to help find my sister and avenge my father detective.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Forgive me for perhaps overstepping my bounds, but it sounds like you
+      and Michael were close.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: We were indeed. He was like a father to me, more so than my actual
+      father. Dad was always away on archeological trips.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Is that why you resent Jeffery so much?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "I\u2026 I guess it is. I guess it\u2019s also why I disliked you so
+      much at first too. But I see now that my opinions were misguided, and for that
+      I am sorry."
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Don\u2019t mention it Eric. Let\u2019s just focus on getting your
+      sister back."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Agreed.
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 11400000, guid: 084dac2768b718342a48ad629fb3c5d4, type: 2}
+  evidence: {fileID: 11400000, guid: 733a5dcb53b9ca04f9cf4fb0b7372ad4, type: 2}

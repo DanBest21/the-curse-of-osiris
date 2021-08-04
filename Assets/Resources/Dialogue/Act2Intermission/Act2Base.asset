@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Act2Base
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: As you are travelling throughout the house, a scream can be heard from
+      the garden. With not a moment to spare, you rush to the garden. A wail of despair
+      can be heard originating from the outhouse.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: My darling daughter! First my husband and now this? What kind of person
+      would do something like this?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: What happened?
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "Mr Penfold, it\u2019s terrible sir! Lady Crane has been kidnapped
+      by the same ruffian who murdered the Duke."
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "I came in to check on her after I noticed she had been in here for
+      some time, and all I found was a note demanding the artifact. We must do something
+      fast, as it says if we don\u2019t deliver it here soon, she will die!"
+  - character: {fileID: 0}
+    sentence: 'You inspect the letter from the killer threatening to kill Anna made
+      from magazine cutouts. It reads:'
+  - character: {fileID: 0}
+    sentence: "\u201CFIND THE ARTIFACT AND BRING IT TO THE OUTHOUSE OR THE GIRL DIES.
+      YOU HAVE ONE HOUR.\u201D"
+  - character: {fileID: 0}
+    sentence: "I need to figure out who is doing this, and fast! There\u2019s no
+      telling how long Anna has!"
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "Same ruffian? I know it was you! I\u2019ll kill you for what you\u2019ve
+      done!"
+  - character: {fileID: 0}
+    sentence: Eric leaps at Jeffery and pins him against the wall. He seems poised
+      to strike.
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: Intervene
+    answerDialogue: {fileID: 11400000, guid: 512503314d426c942990b43c72f2ac94, type: 2}
+  - answer: Do Nothing
+    answerDialogue: {fileID: 11400000, guid: c444ae39fe68c814185c8d8271efb3b4, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

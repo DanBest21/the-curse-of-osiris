@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0c1a9bcd35db8b24b9098145cc93ab99
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 0008475938877fb43b67beccf4960ead
+  - enabled: 1
+    path: Assets/Scenes/Act1.unity
+    guid: 8b075218c1cf7524bbfb4ed6e110eb6f
+  - enabled: 1
+    path: Assets/Scenes/Act1Continue.unity
+    guid: 8d2dfe06e876ff2479d7f3d6a46d4ad9
+  - enabled: 1
+    path: Assets/Scenes/Act1End.unity
+    guid: 69c3ef11b0597724bb1f5e10159dda4a
+  - enabled: 1
+    path: Assets/Scenes/Act2Intermission.unity
+    guid: d28d37b7cbc6ad44faf29542d58181d6
+  - enabled: 1
+    path: Assets/Scenes/Act3Intermission.unity
+    guid: e538fb6f209158d4fbcbdff4be604cce
+  - enabled: 1
+    path: Assets/Scenes/Attic.unity
+    guid: a8bda810cb9abd540bdb4dd67fdc3c2e
+  - enabled: 1
+    path: Assets/Scenes/AtticAct3.unity
+    guid: 2d461d246e42b6547bb989bc5009eab3
+  - enabled: 1
+    path: Assets/Scenes/DiningHallTutorial.unity
+    guid: 6fec7e9ab792e324d83597964f7a7e78
+  - enabled: 1
+    path: Assets/Scenes/DiningHall.unity
+    guid: 21392370d4aaabe47a3a0d017cb2548c
+  - enabled: 1
+    path: Assets/Scenes/DiningHallAct3.unity
+    guid: bfaa7595eeef99a448c9096486454b16
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: a86710dd9ccd25b4c8587b76b86d16de
+  - enabled: 1
+    path: Assets/Scenes/GardenAct3.unity
+    guid: eaa625dde30287f419787179d651fb29
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 70f2a67ad451134449c3df76290caa10
+  - enabled: 1
+    path: Assets/Scenes/KitchenAct3.unity
+    guid: 3d53e091f1791c94a933e0671dd9a4dd
+  - enabled: 1
+    path: Assets/Scenes/MasterBedroom.unity
+    guid: 655331429409e0140a8cb216036f6df1
+  - enabled: 1
+    path: Assets/Scenes/MasterBedroomAct3.unity
+    guid: 997b45121babd75429878197ecd0826d
+  - enabled: 1
+    path: Assets/Scenes/LibraryAct3.unity
+    guid: fcd3b394d9bd15640abbb0eebf855a6b
+  - enabled: 1
+    path: Assets/Scenes/StudyAct3.unity
+    guid: 3c022fb0dc5cbf24982077998f5ff441
+  - enabled: 1
+    path: Assets/Scenes/WineCellarAct3.unity
+    guid: 793991af199c9354bac4a01829c491cc
+  - enabled: 1
+    path: Assets/Scenes/Endings/AnnaEnding.unity
+    guid: f8c2e496a8cdec84d85ae4b11d5cf78f
+  - enabled: 1
+    path: Assets/Scenes/Endings/EricEnding.unity
+    guid: f45752f1672107540aa1f5b61d945c0d
+  - enabled: 1
+    path: Assets/Scenes/Endings/JefferyEnding.unity
+    guid: d0b99a45d93faaf439ed5b7539df341a
+  - enabled: 1
+    path: Assets/Scenes/Endings/PatriciaEnding.unity
+    guid: e640107163531e94685461e42e226678
+  - enabled: 1
+    path: Assets/Scenes/Endings/StaffEnding.unity
+    guid: e485a7595fa9ae944a7f24f8a6e5f9e0
+  - enabled: 1
+    path: Assets/Scenes/Endings/BadEndScreen.unity
+    guid: f4c7a359a8aa27b4982264c18f19c973
+  - enabled: 1
+    path: Assets/Scenes/Endings/GoodEndScreen.unity
+    guid: 390c12eb85932134da53f5a470649f2f
+  - enabled: 1
+    path: Assets/Scenes/Endings/StaffEndScreen.unity
+    guid: d622bf46a32ba80439e9b5c9dabd0618
+  m_configObjects: {}

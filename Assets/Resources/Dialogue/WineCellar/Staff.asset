@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: The Staff of Osiris!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I cannot believe he found it after all this time. No time to reminisce
+      on my history with this artifact now, time to save Anna!
+  - character: {fileID: 0}
+    sentence: With the Staff of Osiris in hand, you quickly bring it to the Outhouse
+      and lie in wait. Suddenly, the lights are cut and darkness erupts. You hear
+      a clanging on the table.
+  - character: {fileID: 0}
+    sentence: After finding your bearings and finding a candle, you find that the
+      staff is missing and a new letter exists on the table.
+  - character: {fileID: 0}
+    sentence: "It reads \u201CYOU MADE THE RIGHT CHOICE BUT THE GIRL REMAINS WITH
+      ME. REST ASSURED SHE WILL REMAIN UNHARMED.\u201D Armed with this knowledge,
+      you quickly gather the others and return to the Dining Hall."
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 11400000, guid: 2b161cb153b13fb4bad158f9c6268921, type: 2}

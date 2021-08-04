@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: 1_0
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Yes?
+  opinionChange:
+    character: {fileID: 0}
+    opinionChange: 0
+  isChoice: 1
+  choices:
+  - answer: My name is James Penfold.
+    answerDialogue: {fileID: 11400000, guid: fe4b92d83bf2b2a4b8f159fe79d1b50e, type: 2}
+  - answer: Are you going to let me in?
+    answerDialogue: {fileID: 11400000, guid: 07ae479022c0cd54bb09346b4720bb04, type: 2}
+  - answer: Good evening sir, my name is James Penfold.
+    answerDialogue: {fileID: 11400000, guid: 677a44200a5b0744885a392a1a12acc8, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: Note
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: 'A personal note from Henry:'
+  - character: {fileID: 0}
+    sentence: "\u201CThe curse is getting worse. I thought I could contain it. My
+      family is in jeopardy, I need to get rid of the staff. "
+  - character: {fileID: 0}
+    sentence: "After reading all these damned books, it looks like the only way to
+      break the curse is to\u2026 Forgive me, for what I must do.\u201D"
+  - character: {fileID: 0}
+    sentence: What he must do? What did he mean? How ominous. Regardless, it looks
+      like I need to take a look around the library.
+  - character: {fileID: 0}
+    sentence: Library unlocked!
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

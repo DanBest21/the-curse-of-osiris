@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: PatriciaBaseL
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: I am very sorry to bother you my lady, especially at this time of grief.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: "I\u2026 Forgive me, I am still in shock Mr Penfold. How could he be
+      gone?"
+  opinionChanges: []
+  isChoice: 1
+  choices:
+  - answer: "We\u2019ll find whoever did this my lady, I swear it."
+    answerDialogue: {fileID: 11400000, guid: b40e37460e216bc4d9c18dfeb8c05ccc, type: 2}
+  - answer: It seems Henry became careless in his old age.
+    answerDialogue: {fileID: 11400000, guid: da1f9d33cc13a4542a9be4b407985c28, type: 2}
+  - answer: Henry was like a father to me.
+    answerDialogue: {fileID: 11400000, guid: c2532eb2e51257d4f9fd85ed5ee306c2, type: 2}
+  - answer: Take solace in your family my lady.
+    answerDialogue: {fileID: 11400000, guid: 9e09f3cab65db2f4ca15bebe269d9295, type: 2}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}

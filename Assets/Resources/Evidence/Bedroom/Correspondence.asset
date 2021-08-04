@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6c4ac28ccff274fbf6b1ed995e4bd1, type: 3}
+  m_Name: Correspondence
+  m_EditorClassIdentifier: 
+  name: Legal Correspondence
+  room: 4
+  description: "A letter from Henry\u2019s lawyer discussing his will:\r\n\n\u201CMy
+    Lord Duke,\r\n\r\nAs requested, I have made the necessary modifications to your
+    will to ensure that Lord Eric Crane of Hampshire does not receive control of
+    your business operations. Instead they will be sold to the highest bidder, with
+    the proceedings all then being donated to the British Museum.\n\r\nPlease let
+    me know if there is anything else I can do to help, I am always at your service.\r\n\r\nYours
+    sincerely,\r\n\r\nMr Timothy Wallace\r\nWallace & Associates Law Firm\u201D\r\n\nSo
+    Henry was, at least partially, writing his son out of his will? That\u2019s certainly
+    could be a motive for his murder."
+  image: {fileID: 0}
+  type: 0

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de9e055f079e7644a3539b63deca44c, type: 3}
+  m_Name: EricEnding
+  m_EditorClassIdentifier: 
+  sentences:
+  - character: {fileID: 0}
+    sentence: Now that the killer has been identified, all that remains now is to
+      gather everyone in the Dining Hall.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Thank you all for coming. I have concluded my investigation, and have
+      gathered you all together because I have identified the killer.
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Yes, yes. Time is short. My sister could still be in danger.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Please tell us what you have discovered Jim.
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: "Yes, Miss Crane\u2019s life still hangs in the balance!"
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: So, your sister is still in jeopardy then? After all, it is you Eric,
+      that put her there?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: Me? Preposterous! Why would I kill my father, and kidnap my own sister?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "Simple. You\u2019re a failure Eric, and your father treated you as
+      such. You\u2019ve been failing to run the business, and as a result, he had
+      taken it away from you. So you killed him."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "I tried my best, and it still wasn\u2019t good enough for him!"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Eric?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "No mother, I didn\u2019t. I would never!"
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: I did witness the two of them argue the other day, my lady. I can corroborate
+      this part of the story.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "And then there\u2019s the question of your sister. The motive for
+      that is simple. Jealousy. Your sister was always the favoured child, so when
+      you decided to kill your father, you also decided to be rid of her. You used
+      the secret tunnels that only you and her knew about to leave the outhouse without
+      being seen."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: No I did not! I would never harm Anna! I love her!
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "The final question was what you wanted with the staff. And again the
+      answer is obvious. You wanted to spite your father. By taking his life\u2019s
+      work. By taking from him the one thing that took him away from you for all
+      these years. This was your ultimate revenge, to destroy the staff."
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "My ultimate revenge? This story is insane! I didn\u2019t kill father,
+      you have to believe me mother!"
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Eric? How could you?
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Now Eric, are you going to tell us where your sister is?
+  - character: {fileID: 11400000, guid: 3892af64df0c32e4888b1024fde5acf3, type: 2}
+    sentence: "I don\u2019t know! Mother, please!"
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Mr Penfold, I suggest we detain him until the police arrive.
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: Agreed.
+  - character: {fileID: 0}
+    sentence: The police arrive and take Eric into custody. Some time passes, and
+      Jeffery, Patricia and Jim are all back in the Dining Hall.
+  - character: {fileID: 0}
+    sentence: "A new note has been discovered, covered in what looks like blood.
+      It reads \u201CI TOLD YOU WHAT WOULD HAPPEN. HER BLOOD IS ON YOUR HANDS.\u201D"
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: Oh no. Not Miss Crane.
+  - character: {fileID: 11400000, guid: 19d27bb4ef9945549930bf1b387fd035, type: 2}
+    sentence: Oh god Anna no. My poor, sweet daughter! You got it completely wrong
+      you idiot! You made me believe my son could do something as heinous as this,
+      how could you?!
+  - character: {fileID: 11400000, guid: 23f9cec19fa99134f8b84c40a0dc9a0f, type: 2}
+    sentence: 'I am afraid I am going to escort you off the premises sir, without
+      delay. '
+  - character: {fileID: 11400000, guid: 62067f6e33a936f408b5813710f123b2, type: 2}
+    sentence: "I\u2026 I failed you Henry, I\u2019m so sorry. Farewell."
+  opinionChanges: []
+  isChoice: 0
+  choices:
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  - answer: 
+    answerDialogue: {fileID: 0}
+  continuation: {fileID: 0}
+  evidence: {fileID: 0}
