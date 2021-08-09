@@ -2,6 +2,10 @@
 
 A point-and-click murder mystery game with a pixel art style. The narrative takes inspiration from classic Agatha Christie stories, and includes a branching narrative with multiple endings.
 
+I was responsible for writing the game's narrative, including the script. I was also responsible for designing the underlying story engine that keeps track of all elements of the game, implementing the audio/music, and creating the UI — including the journal.
+
+This project taught me how to create a game in such a way that it is easy to add new features and implement content, which is crucial for scaling up a game from a simple prototype into a fully developed experience.
+
 Created by Dan Best and Iman Shahrulanuar.
 
 Music by Kevin MacLeod — https://incompetech.com/music/
